@@ -1,0 +1,27 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+#n2-ss-5item6{
+  
+    opacity: 0;
+    transition: all ease 0.1s;
+}
+.n2-font-a500bed25fb8bd5fc84f593f212cdc6a-hover:hover ~ #n2-ss-5item6{
+    
+    opacity: 1;
+}
+.n2-font-a500bed25fb8bd5fc84f593f212cdc6a-hover:hover ~ .n2-font-1304-paragraph{
+    
+    color: red!important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

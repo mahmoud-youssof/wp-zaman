@@ -1,0 +1,69 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 28, 2023 12:22 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.5.1
+WORDPRESS:	6.2.2
+PHP INFO:	8.0.29 | SAPI: litespeed
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 78MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230728_zaman_c0648fb2a5568c4f7792_20230728122244_database.sql
+SQL FILE SIZE: 9.35MB (9804134)
+SQL FILE TIME: 2023-07-28 12:22:59
+SQL RUNTIME: 0.76 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /home/m70kulzyzfzo/public_html/zamangoods.com
+ARCHIVE FILE: 20230728_zaman_c0648fb2a5568c4f7792_20230728122244_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0 | Total 0
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 2.97MB
+ARCHIVE RUNTIME: 6.90 sec.
+MEMORY STACK: 80MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 9.35MB
+INSTALLER FILE: 94.81KB
+ARCHIVE FILE: 2.97MB 
+EXPECTED FILE/DIRECTORY COUNT: 738
+ACTUAL FILE/DIRECTORY COUNT: 740
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 6.90 sec.
+PEAK PHP MEMORY USED: 80MB
+DONE PROCESSING => 20230728_zaman 2023-07-28 12:23:05
+
