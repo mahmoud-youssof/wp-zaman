@@ -1,0 +1,1 @@
+[11-Aug-2023 03:03:41 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/m70kulzyzfzo/public_html/wp-zaman/wp-content/plugins/slider-by-supsystic/vendor/Twig/Node.php on line 42
